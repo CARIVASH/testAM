@@ -8,5 +8,5 @@ El tiempo que mas me llevo fue el maquetado ya que no use ningún framework (por
 Sugeriría tambien acceder a APIs online para asi poder hacer put y guardar imagenes o alguna información requerida para consultar desde API.
 
 NOTA: El uso de json-server para las consultas no son soportadas por Netlify, sugeriría para pruebas usar API públicas para estos ejercicios:
-https://pokeapi.co/api/v2/pokemon/
-https://swapi.dev/api/films/
+#### https://pokeapi.co/api/v2/pokemon/
+#### https://swapi.dev/api/films/
